@@ -1,1 +1,8 @@
-The most frequent update is only a test update.
+The Droid Project
+Version: DEV0002
+Pushed on September 14, 2022
+
+This update adds more visual effects to the title screen,
+rebrands the logo to Studio 403 and Luna Studio,
+adds quality of life fixes and improvements,
+and fixes bugs and errors.
