@@ -1,6 +1,12 @@
 The Droid Project
-Version: DEV0003
-Pushed on September 15, 2022
+Version: DEV0005
+Pushed on September 25, 2022
 
-This version fixes bugs, smoothes out animations
-and fixes some typos.
+What's new:
+Fixed Typos
+Fixed some map teleport event positions
+Removed Support for RPG Maker 2003 Runtime. Only EasyRPG is supported.
+Added new scenes
+Added new sprites
+Added new dialogue
+Changed some animations
