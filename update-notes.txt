@@ -1,8 +1,7 @@
 The Droid Project
-Version: DEV0006
-Pushed on October 1, 2022
+Version: DEV0007
+Pushed on November 9, 2022
 
 What's new:
-Bug Fixes
-New Music
-Reworked the title screen
+Bug fixes
+New artwork and maps
