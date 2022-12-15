@@ -1,10 +1,9 @@
 The Droid Project
-Version: DEV0008
-Pushed on November 18, 2022
+Version: DEV0009
+Pushed on December 15, 2022
 
 What's new:
 Fixed some bugs
-Added some sound effects
-Smoothed some animations
-Changed some warning screens to be easily readable
-Minor changes to some cutscenes
+Added some new animations
+Added the puzzle system
+Added new areas and fixed some bugs with the item system
