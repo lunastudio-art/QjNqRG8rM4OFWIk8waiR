@@ -1,7 +1,14 @@
 The Droid Project
-Version: DEV0010
-Pushed on February 26, 2023
+Version: DEV0011
+Pushed on February 27, 2023
 
 What's new:
-Fixed some bugs
-Added map events to the local school's interior.
+Fixed a bug where the menu was accessable in the title screen
+
+Fixed a bug where the cursor would default to continue even if no save file was present
+
+Fixed a graphical glitch in a scene transition in the school
+
+Cleaned up some fonts to make it more readable for neurodivergents
+
+Fixed a bug on mobile where inputs were not working in puzzles
